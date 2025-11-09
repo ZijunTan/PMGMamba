@@ -7,12 +7,12 @@ First, download the UIEB and LSUI datasets, and divide each into training and te
 You can get the follow sturcture:
 ```
 UIEB
-├─Train
+├─train
     ├─raw
     ├─raw_depth
     ├─raw_grad
     ├─reference
-├─Test
+├─test
     ├─raw
     ├─reference
 ```
