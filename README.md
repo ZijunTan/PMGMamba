@@ -27,11 +27,13 @@ python setup.py install
 cd ..
 
 ### Train
+```
 python main.py --mode train --data_dir your dataset path
-
+```
 ### Test
+```
 python main.py --mode test --data_dir your dataset path --test_model weight path --save_image True --save_path result
-
+```
 ## Acknowledgement
 This repository is built under the help of the projects [IRNeXt](https://github.com/c-yn/IRNeXt) for academic use only.
 
