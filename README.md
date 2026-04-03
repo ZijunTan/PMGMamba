@@ -14,6 +14,8 @@ UIEB
     ├─reference
 ├─test
     ├─raw
+    ├─raw_depth
+    ├─raw_grad
     ├─reference
 ```
 ### Environment setup
